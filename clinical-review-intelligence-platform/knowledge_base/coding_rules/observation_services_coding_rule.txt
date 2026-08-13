@@ -1,0 +1,148 @@
+CRIP Demonstration Coding Reference
+Outpatient Observation Services
+
+Reference ID: CRIP-CODE-OBS-001
+Version: 1.0
+Status: Demonstration Coding Reference for CRIP POC
+
+=====================================================
+1. PURPOSE
+=====================================================
+
+This reference describes coding and billing information that a
+claim reviewer may check when reviewing an outpatient
+observation-services claim.
+
+It is intended to support review of the relationship between the
+submitted service code, billed service, place of service, and
+supporting encounter documentation.
+
+
+=====================================================
+2. DEMONSTRATION SERVICE
+=====================================================
+
+For this CRIP demonstration case:
+
+Service Category:
+Observation Services
+
+Service Code:
+OBS-001
+
+Claim Type:
+Outpatient Facility
+
+Place of Service:
+Hospital Outpatient
+
+OBS-001 is a fictional code created only for the CRIP proof of
+concept.
+
+
+=====================================================
+3. CODING REVIEW ELEMENTS
+=====================================================
+
+When reviewing the submitted observation-service code, the
+reviewer should check whether the claim and supporting
+documentation provide enough information to identify:
+
+1. The billed service code.
+
+2. The service category associated with the code.
+
+3. The date on which the billed service occurred.
+
+4. The reported place of service.
+
+5. A corresponding observation event in the encounter
+   documentation.
+
+6. Documentation that helps connect the billed observation
+   service with the submitted encounter.
+
+7. Any conflicts between the coded service and the supporting
+   documentation.
+
+
+=====================================================
+4. SERVICE-TO-DOCUMENTATION CHECK
+=====================================================
+
+The billed service should be traceable to the submitted
+encounter documentation.
+
+For an observation-service claim, the reviewer may compare:
+
+- service code
+- service category
+- service date
+- place of service
+- documented observation event
+- encounter timeline
+- supporting submitted documents
+
+A billed observation service with no corresponding observation
+event in the submitted record may require additional human
+review.
+
+
+=====================================================
+5. CONSISTENCY CHECKS
+=====================================================
+
+The reviewer should check for consistency between:
+
+- the billed service code and service category
+- the service date and encounter date
+- the place of service and encounter setting
+- the billed service and documented encounter events
+
+Conflicting information should be identified for human review.
+
+
+=====================================================
+6. CODING CONCERNS
+=====================================================
+
+The following situations may require additional review:
+
+- service code is missing
+
+- service category is missing
+
+- service date does not match the encounter information
+
+- place of service conflicts with the encounter setting
+
+- the billed observation service cannot be traced to a
+  documented observation event
+
+- claim information and supporting documentation contain
+  conflicting service information
+
+
+=====================================================
+7. REVIEW LIMITATION
+=====================================================
+
+This reference helps identify coding-related information that
+should be checked.
+
+It does not independently establish whether a code is correct or
+incorrect.
+
+Final coding and claim determinations are made by a qualified
+human reviewer.
+
+
+=====================================================
+8. DEMONSTRATION NOTICE
+=====================================================
+
+OBS-001 is a fictional service code used only for the Claim
+Review Intelligence Platform (CRIP) proof of concept.
+
+This document is demonstration content and is not an official
+coding standard, payer rule, or government billing requirement.

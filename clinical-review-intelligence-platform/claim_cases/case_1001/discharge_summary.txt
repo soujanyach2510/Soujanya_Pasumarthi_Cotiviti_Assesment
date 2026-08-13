@@ -1,0 +1,20 @@
+GREENVILLE REGIONAL MEDICAL CENTER
+DISCHARGE SUMMARY
+
+Document ID: DOC-1001-03
+Patient: John Carter
+Patient ID: PT-1001
+Encounter ID: ENC-1001
+Discharge Date: 2026-07-19
+
+Primary Diagnosis:
+Chest pain, unspecified.
+
+Hospital / Observation Course:
+The patient presented to the emergency department on 2026-07-18 with intermittent substernal chest pressure. Initial electrocardiogram findings showed no acute ST-segment elevation. Serial troponin measurements remained within the normal reference range. Aspirin was administered, and the patient was placed under observation overnight.
+
+Discharge Assessment:
+No evidence of acute coronary syndrome was identified.
+
+Follow-Up:
+Outpatient cardiology follow-up was recommended.

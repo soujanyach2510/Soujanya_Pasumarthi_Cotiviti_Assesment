@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+crewai[litellm]

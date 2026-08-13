@@ -1,0 +1,15 @@
+GREENVILLE REGIONAL MEDICAL CENTER
+LABORATORY RESULTS
+
+Document ID: DOC-1002-02
+Patient: Maria Lopez
+Patient ID: PT-1002
+Encounter ID: ENC-1002
+Date: 2026-07-22
+
+11:05
+Test: Initial Troponin
+Result: Within the normal reference range.
+
+Summary:
+The submitted laboratory documentation contains the initial troponin result documented during the emergency department visit.

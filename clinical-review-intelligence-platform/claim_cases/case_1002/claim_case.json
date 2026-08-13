@@ -1,0 +1,81 @@
+{
+  "case_id": "1002",
+  "claim": {
+    "claim_id": "CLM-1002",
+    "payer": "HealthFirst Demo Plan",
+    "provider": "Greenville Regional Medical Center",
+    "claim_type": "Outpatient Facility",
+    "service_category": "Observation Services",
+    "service_code": "OBS-001",
+    "place_of_service": "Hospital Outpatient",
+    "service_date": "2026-07-22",
+    "billed_units": 1,
+    "billed_amount": 1625.0,
+    "claim_status": "Pending Review"
+  },
+  "patient": {
+    "patient_id": "PT-1002",
+    "name": "Maria Lopez",
+    "age": 46,
+    "sex": "Female",
+    "date_of_birth": "1980-02-18",
+    "comorbidities": [
+      "Hypertension"
+    ]
+  },
+  "encounter": {
+    "encounter_id": "ENC-1002",
+    "encounter_type": "Emergency Department",
+    "admission_date": "2026-07-22",
+    "discharge_date": "2026-07-22",
+    "primary_diagnosis": "Chest pain, unspecified",
+    "clinical_summary": "Maria Lopez, a 46-year-old female with hypertension, presented to the emergency department with intermittent chest discomfort. Initial vital signs were stable. An electrocardiogram showed normal sinus rhythm without acute ischemic changes, and the initial troponin result was within the normal reference range. The available documentation describes emergency department evaluation and discharge later the same day. The submitted record does not document placement into observation status, an observation start time, or continued monitoring during an observation period.",
+    "timeline": [
+      {
+        "date": "2026-07-22T10:05:00",
+        "title": "Emergency department arrival",
+        "description": "Patient presented with intermittent chest discomfort."
+      },
+      {
+        "date": "2026-07-22T10:20:00",
+        "title": "Initial clinical assessment",
+        "description": "Vital signs were stable and the patient was evaluated in the emergency department."
+      },
+      {
+        "date": "2026-07-22T10:42:00",
+        "title": "Electrocardiogram completed",
+        "description": "Normal sinus rhythm was documented without acute ischemic changes."
+      },
+      {
+        "date": "2026-07-22T11:05:00",
+        "title": "Initial laboratory testing",
+        "description": "Initial troponin result was within the normal reference range."
+      },
+      {
+        "date": "2026-07-22T14:10:00",
+        "title": "Discharge from emergency department",
+        "description": "Patient was discharged home with outpatient follow-up instructions."
+      }
+    ]
+  },
+  "review": {
+    "review_type": "Claim Review",
+    "reason": "Evaluate whether the billed observation service is supported by the submitted encounter documentation and whether the claim aligns with applicable clinical guidance, payer policy, and coding rules.",
+    "priority": "Standard",
+    "status": "Pending Human Review"
+  },
+  "submitted_documents": [
+    {
+      "document_id": "DOC-1002-01",
+      "document_type": "Emergency Department Note",
+      "date": "2026-07-22",
+      "file_name": "emergency_department_note.txt"
+    },
+    {
+      "document_id": "DOC-1002-02",
+      "document_type": "Laboratory Results",
+      "date": "2026-07-22",
+      "file_name": "laboratory_results.txt"
+    }
+  ]
+}

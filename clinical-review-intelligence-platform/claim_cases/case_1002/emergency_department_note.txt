@@ -1,0 +1,27 @@
+GREENVILLE REGIONAL MEDICAL CENTER
+EMERGENCY DEPARTMENT NOTE
+
+Document ID: DOC-1002-01
+Patient: Maria Lopez
+Patient ID: PT-1002
+Encounter ID: ENC-1002
+Date: 2026-07-22
+
+Chief Concern:
+Intermittent chest discomfort.
+
+Clinical History:
+Maria Lopez is a 46-year-old female with documented hypertension.
+
+Emergency Department Course:
+10:05 - Patient arrived in the emergency department with intermittent chest discomfort.
+10:20 - Initial clinical assessment documented stable vital signs.
+10:42 - Electrocardiogram showed normal sinus rhythm without acute ischemic changes.
+11:05 - Initial troponin result was within the normal reference range.
+14:10 - Patient was discharged home with outpatient follow-up instructions.
+
+Primary Diagnosis:
+Chest pain, unspecified.
+
+Documentation Review Note:
+The available emergency department documentation does not document placement into observation status, an observation start time, or continued monitoring during an observation period.

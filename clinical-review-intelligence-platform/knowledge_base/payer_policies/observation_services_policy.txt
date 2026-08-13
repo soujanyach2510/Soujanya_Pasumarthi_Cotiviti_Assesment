@@ -1,0 +1,154 @@
+HealthFirst Demo Plan
+Outpatient Observation Services Policy
+
+Policy ID: HFD-OBS-001
+Version: 1.0
+Status: Demonstration Policy for CRIP POC
+
+=====================================================
+1. PURPOSE
+=====================================================
+
+This policy describes the documentation elements reviewed for
+outpatient observation-service claims.
+
+It is used to help determine whether the submitted claim and
+supporting encounter documentation contain enough information
+for a human reviewer to evaluate the billed observation service.
+
+
+=====================================================
+2. SCOPE
+=====================================================
+
+This policy applies to outpatient facility claims submitted for
+observation services.
+
+For this CRIP demonstration case, the policy applies to:
+
+Claim Type:
+Outpatient Facility
+
+Service Category:
+Observation Services
+
+Place of Service:
+Hospital Outpatient
+
+Service Code:
+OBS-001
+
+
+=====================================================
+3. OBSERVATION SERVICE REVIEW ELEMENTS
+=====================================================
+
+When reviewing an observation-service claim, the submitted
+documentation should provide enough information to identify:
+
+1. The reason for the patient's encounter.
+
+2. The documented condition or symptoms being evaluated.
+
+3. The date and time the observation service began.
+
+4. Diagnostic testing or monitoring performed during the
+   encounter.
+
+5. Relevant documented test or monitoring results.
+
+6. Continued monitoring or reassessment during the observation
+   period, when documented.
+
+7. The patient's final disposition, such as discharge,
+   admission, or transfer.
+
+8. Documentation showing that the billed observation service
+   corresponds to an event in the submitted encounter record.
+
+
+=====================================================
+4. CLAIM AND DOCUMENTATION ALIGNMENT
+=====================================================
+
+The reviewer should compare the billed observation service with
+the supporting encounter documentation.
+
+The documentation should allow the reviewer to identify that an
+observation event occurred and should provide enough context to
+understand the related encounter.
+
+The reviewer may compare:
+
+- the billed service
+- the service date
+- the place of service
+- the primary diagnosis
+- the observation event
+- diagnostic testing
+- monitoring or reassessment
+- the final disposition
+
+The information should be reviewed for consistency across the
+claim and submitted encounter documentation.
+
+
+=====================================================
+5. DOCUMENTATION CONCERNS
+=====================================================
+
+The following situations may require additional human review:
+
+- an observation service is billed but no observation event is
+  documented
+
+- the service date does not match the encounter documentation
+
+- the observation start time is missing or unclear
+
+- claim information conflicts with the encounter documentation
+
+- the billed service cannot be clearly connected to the
+  submitted encounter record
+
+- final disposition information is missing when it is needed to
+  understand the observation episode
+
+- documentation contains conflicting dates, times, or service
+  information
+
+
+=====================================================
+6. REVIEW CONSIDERATIONS
+=====================================================
+
+A documented observation event should be reviewed together with
+the other submitted information.
+
+The presence of an observation event by itself does not establish
+that all claim-review requirements have been satisfied.
+
+The reviewer should consider the available claim information,
+encounter documentation, relevant clinical information, and any
+applicable coding guidance before making a final determination.
+
+
+=====================================================
+7. FINAL REVIEW
+=====================================================
+
+The final claim determination is made by a qualified human
+reviewer after evaluating the available claim documentation and
+applicable review criteria.
+
+
+=====================================================
+8. DEMONSTRATION NOTICE
+=====================================================
+
+HealthFirst Demo Plan and service code OBS-001 are fictional and
+are used only for the Claim Review Intelligence Platform (CRIP)
+proof of concept.
+
+This policy is demonstration content and is not a real insurer
+coverage policy.

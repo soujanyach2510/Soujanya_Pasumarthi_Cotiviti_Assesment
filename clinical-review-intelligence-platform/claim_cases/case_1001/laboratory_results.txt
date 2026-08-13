@@ -1,0 +1,18 @@
+GREENVILLE REGIONAL MEDICAL CENTER
+LABORATORY RESULTS
+
+Document ID: DOC-1001-02
+Patient: John Carter
+Patient ID: PT-1001
+Encounter ID: ENC-1001
+
+2026-07-18 19:10
+Test: Troponin
+Result: Within the normal reference range.
+
+2026-07-19 01:15
+Test: Repeat Troponin
+Result: Remained within the normal reference range.
+
+Summary:
+Serial troponin measurements remained within the normal reference range.

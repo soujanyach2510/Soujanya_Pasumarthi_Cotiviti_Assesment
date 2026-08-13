@@ -1,0 +1,27 @@
+CRIP Clinical Review Guidance — Chest Pain Observation
+
+Purpose:
+This fictional guidance document is created only for the CRIP proof-of-concept.
+It is not an official clinical guideline and must not be used for patient care.
+
+Clinical review should examine whether the patient record clearly documents:
+
+1. Presenting symptoms and symptom characteristics.
+2. Relevant cardiovascular comorbidities and risk factors.
+3. Electrocardiogram findings.
+4. Initial and repeat troponin results when documented.
+5. Observation status and documented monitoring events.
+6. Medications administered during the encounter.
+7. The documented discharge assessment and disposition.
+8. Follow-up instructions contained in the patient record.
+
+Reviewers should compare clinical findings with the original patient record
+and identify whether evidence is sufficient to support each documented finding.
+
+The review system must not independently diagnose acute coronary syndrome,
+myocardial infarction, or another condition.
+
+The review system must not recommend treatment, testing, admission, discharge,
+or other patient-care actions.
+
+All AI-generated findings are advisory and require qualified human validation.

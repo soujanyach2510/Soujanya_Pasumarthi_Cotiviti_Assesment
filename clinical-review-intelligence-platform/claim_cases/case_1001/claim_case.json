@@ -1,0 +1,106 @@
+{
+  "case_id": "1001",
+
+  "claim": {
+    "claim_id": "CLM-1001",
+    "payer": "HealthFirst Demo Plan",
+    "provider": "Greenville Regional Medical Center",
+    "claim_type": "Outpatient Facility",
+    "service_category": "Observation Services",
+    "service_code": "OBS-001",
+    "place_of_service": "Hospital Outpatient",
+    "service_date": "2026-07-18",
+    "billed_units": 1,
+    "billed_amount": 1850.0,
+    "claim_status": "Pending Review"
+  },
+
+  "patient": {
+    "patient_id": "PT-1001",
+    "name": "John Carter",
+    "age": 58,
+    "sex": "Male",
+    "date_of_birth": "1968-04-12",
+    "comorbidities": [
+      "Hypertension",
+      "Type 2 Diabetes Mellitus",
+      "Hyperlipidemia"
+    ]
+  },
+
+  "encounter": {
+    "encounter_id": "ENC-1001",
+    "encounter_type": "Emergency Department",
+    "admission_date": "2026-07-18",
+    "discharge_date": "2026-07-19",
+    "primary_diagnosis": "Chest pain, unspecified",
+
+    "clinical_summary": "John Carter, a 58-year-old male with hypertension, type 2 diabetes mellitus, and hyperlipidemia, presented to the emergency department with intermittent substernal chest pressure lasting approximately two hours. Initial electrocardiogram findings showed no acute ST-segment elevation. Serial troponin measurements remained within the normal reference range. The patient received aspirin and was placed under observation overnight. No evidence of acute coronary syndrome was identified, and outpatient cardiology follow-up was recommended.",
+
+    "timeline": [
+      {
+        "date": "2026-07-18T18:20:00",
+        "title": "Emergency department arrival",
+        "description": "Patient presented with intermittent substernal chest pressure rated 6 out of 10."
+      },
+      {
+        "date": "2026-07-18T18:35:00",
+        "title": "Initial clinical assessment",
+        "description": "Vital signs were stable. The patient denied shortness of breath, syncope, or radiating arm pain."
+      },
+      {
+        "date": "2026-07-18T18:52:00",
+        "title": "Electrocardiogram completed",
+        "description": "Normal sinus rhythm was documented without acute ST-segment elevation."
+      },
+      {
+        "date": "2026-07-18T19:10:00",
+        "title": "Initial laboratory testing",
+        "description": "Initial troponin result was within the normal reference range."
+      },
+      {
+        "date": "2026-07-18T20:00:00",
+        "title": "Observation initiated",
+        "description": "Aspirin was administered, and the patient was placed under observation."
+      },
+      {
+        "date": "2026-07-19T01:15:00",
+        "title": "Repeat troponin testing",
+        "description": "Second troponin result remained within the normal reference range."
+      },
+      {
+        "date": "2026-07-19T08:30:00",
+        "title": "Discharge assessment",
+        "description": "No evidence of acute coronary syndrome was identified. Outpatient cardiology follow-up was recommended."
+      }
+    ]
+  },
+
+  "review": {
+    "review_type": "Claim Review",
+    "reason": "Evaluate whether the billed observation service is supported by the submitted encounter documentation and whether the claim aligns with applicable clinical guidance, payer policy, and coding rules.",
+    "priority": "Standard",
+    "status": "Pending Human Review"
+  },
+
+  "submitted_documents": [
+    {
+      "document_id": "DOC-1001-01",
+      "document_type": "Emergency Department Note",
+      "date": "2026-07-18",
+      "file_name": "emergency_department_note.txt"
+    },
+    {
+      "document_id": "DOC-1001-02",
+      "document_type": "Laboratory Results",
+      "date": "2026-07-18",
+      "file_name": "laboratory_results.txt"
+    },
+    {
+      "document_id": "DOC-1001-03",
+      "document_type": "Discharge Summary",
+      "date": "2026-07-19",
+      "file_name": "discharge_summary.txt"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+GRENVILLE REGIONAL MEDICAL CENTER
+EMERGENCY DEPARTMENT NOTE
+
+Document ID: DOC-1001-01
+Patient: John Carter
+Patient ID: PT-1001
+Encounter ID: ENC-1001
+Date: 2026-07-18
+
+Chief Concern:
+Intermittent substernal chest pressure lasting approximately two hours.
+
+Clinical History:
+John Carter is a 58-year-old male with documented hypertension, type 2 diabetes mellitus, and hyperlipidemia.
+
+Emergency Department Course:
+18:20 - Patient arrived in the emergency department reporting intermittent substernal chest pressure rated 6 out of 10.
+18:35 - Initial clinical assessment documented stable vital signs. The patient denied shortness of breath, syncope, or radiating arm pain.
+18:52 - Electrocardiogram showed normal sinus rhythm without acute ST-segment elevation.
+19:10 - Initial troponin result was within the normal reference range.
+20:00 - Aspirin was administered, and the patient was placed under observation.
+
+Primary Diagnosis:
+Chest pain, unspecified.
+
+Disposition:
+The patient remained under observation overnight for continued evaluation.
